@@ -1,16 +1,16 @@
-## Hi there 👋
+# What's up 🚀
 
-<!--
-**nina-book941/nina-book941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **nina-book941**, a recovering perfectionist.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐛 Bug hunter by night
+- 🤔 Exploring new technologies
+
+## Tech
+
+`Lua` `Phoenix` `C#`
+
+---
+
+_Love a good rubber duck._
